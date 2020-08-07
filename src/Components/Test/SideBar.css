@@ -1,0 +1,29 @@
+
+.test{
+    background-color: lightgray;
+}
+.sideBar {
+    background-color: chartreuse;
+    width: 400px;
+    height: 100%;
+}
+.sideBarLeft {
+    background-color: chartreuse;
+    width: 400px;
+    height: 100%;
+}
+.sideBarRight{
+    background-color: darkgoldenrod;
+    width: 400px;
+    float: right;
+    height: 100%;
+}
+.resizeHandle {
+    background-color: lightgray;
+    width: 5px;
+    height: 100%;
+    cursor: e-resize;
+}
+.floatRight {
+    float: right;
+}
